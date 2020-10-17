@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS `covid`;
+CREATE DATABASE `covid`;
